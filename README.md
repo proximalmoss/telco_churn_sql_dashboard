@@ -3,13 +3,9 @@
 **Tools:** MySQL | Tableau Public  
 **Dataset:** IBM Telco Customer Churn Dataset (7,043 customers)
 
----
-
 ## 📌 Project Overview
 
 This project analyzes customer churn for a fictional telecom company using SQL for data exploration and Tableau for interactive dashboards. The goal is to identify churn drivers, segment customers, and provide actionable retention recommendations.
-
----
 
 ## 🔍 Key Findings
 - Overall churn rate is **26.5%** — roughly 1 in 4 customers leaves
@@ -19,28 +15,24 @@ This project analyzes customer churn for a fictional telecom company using SQL f
 - **New customers (<6 months)** are the highest risk group at 54.7% churn
 - **$1.67M** in annual revenue is at risk from churned customers
 
----
-
 ## 📈 Dashboards
 ### 1. Overview
 ![Overview](Overview.png)
 
 ### 2. Churn Analysis
-![Churn Analysis](Churn_analysis.png)
+![Churn Analysis](Churn%20analysis.png)
 
 ### 3. Revenue Insights
-![Revenue Insights](Revenue_insights.png)
+![Revenue Insights](Revenue%20insights.png)
 
 ### 4. Customer Segmentation
-![Customer Segmentation](Customer_segmentation.png)
+![Customer Segmentation](Customer%20segmentation.png)
 
 ### 5. Service & Product Analysis
-![Service Analysis](Service and product analysis.png)
+![Service Analysis](Service%20and%20product%20analysis.png)
 
 ### 6. Recommendations
 ![Recommendations](Recommendations.png)
-
----
 
 ## 🗄️ SQL Analysis
 - Data cleaning & validation
